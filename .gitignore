@@ -1,0 +1,18 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# Tooling
+.pytest_cache/
+.mypy_cache/
+
+# Packaging
+build/
+dist/
+*.egg-info/
